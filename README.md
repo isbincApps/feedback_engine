@@ -1,4 +1,4 @@
-![Feedback Engine Logo](https://github.com/FbkEngine/FeedbackEngine/blob/master/feedbackenginelogo-transp.png)
+![Feedback Engine Logo](https://github.com/isbincApps/feedback_engine/blob/master/feedbackenginelogo-transp.png)
 
 
 Feedback about a business' product and services can come from anywhere. For many, it's challenging to keep up with what is being said, let alone how to use it to one's advantage. Some companies have employees search through loads of data to understand how the customer feels, while others only use the data to resolve the problem of the moment. In either case, they will miss the opportunity to improve a service or introduce a new product, if they're not equipped to find them. A company's inability to process and understand its data will keep them playing small in a world where the customer dictates the outcome. 
@@ -7,7 +7,7 @@ The __Feedback Engine__ was created to help businesses efficiently use one of th
 
 ## How It Works!
 
-![How It Works](https://github.com/FbkEngine/FeedbackEngine/blob/master/How%20It%20Works.png)
+![How It Works](https://github.com/isbincApps/feedback_engine/blob/master/How%20It%20Works.png)
 
 Click Here to Signup: http://feedbackengine.surge.sh/#/
 
